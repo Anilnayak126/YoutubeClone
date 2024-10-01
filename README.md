@@ -26,5 +26,5 @@ A YouTube clone built with React and Tailwind CSS, utilizing Rapid API for fetch
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/youtube-clone.git
+   https://github.com/Anilnayak126/YoutubeClone.git
    cd youtube-clone
